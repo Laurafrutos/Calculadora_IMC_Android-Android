@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_background">#1D1E33</color>
+    <color name="bg_card">#111328</color>
+    <color name="bg_card_selected">#24263B</color>
+
+    <!-- Textos -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8D8E99</color>
+
+    <!-- Acentos y Estados de IMC -->
+    <color name="accent_pink">#EB1555</color>
+    <color name="imc_normal">#24D876</color>
+    <color name="imc_warning">#FFEB3B</color>
+    <color name="imc_danger">#FF5252</color>
+</resources>
